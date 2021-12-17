@@ -1,0 +1,30 @@
+#menu {
+    display: flex;
+    height: 50px;
+    justify-content:space-evenly;
+    background-color: black;
+}
+#menu a{
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 15px;
+    color: rgb(253, 253, 253);
+    list-style-type: square;
+    display: inline-block;
+    position: relative;
+    text-transform: uppercase;
+    text-decoration: white;
+    border: 2px solid;
+
+}
+h2 { 
+    color:white;
+    background-color: black;
+    text-decoration: underline;
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
